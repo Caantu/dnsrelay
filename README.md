@@ -52,7 +52,7 @@ gcc -o dnsrelay dnsrelay.c -lws2_32
 
 ## 配置文件格式
 
-创建 `dnsrelay.txt` 文件，每行格式为：
+创建 `dnsrelay.txt` 文件，或直接用已给出的，每行格式为：
 ```
 IP地址 域名
 ```
